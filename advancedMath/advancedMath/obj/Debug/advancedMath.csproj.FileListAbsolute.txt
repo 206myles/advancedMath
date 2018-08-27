@@ -1,0 +1,7 @@
+C:\Users\Tech Academy Student\source\repos\advancedMath\advancedMath\obj\Debug\advancedMath.csprojResolveAssemblyReference.cache
+C:\Users\Tech Academy Student\source\repos\advancedMath\advancedMath\obj\Debug\advancedMath.csproj.CoreCompileInputs.cache
+C:\Users\Tech Academy Student\source\repos\advancedMath\advancedMath\bin\Debug\advancedMath.exe.config
+C:\Users\Tech Academy Student\source\repos\advancedMath\advancedMath\bin\Debug\advancedMath.exe
+C:\Users\Tech Academy Student\source\repos\advancedMath\advancedMath\bin\Debug\advancedMath.pdb
+C:\Users\Tech Academy Student\source\repos\advancedMath\advancedMath\obj\Debug\advancedMath.exe
+C:\Users\Tech Academy Student\source\repos\advancedMath\advancedMath\obj\Debug\advancedMath.pdb
